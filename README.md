@@ -8,3 +8,4 @@ Project using Spring and MySQL to manage employees database
 - Maven
 - MySQL
 - AOP
+- Docker
