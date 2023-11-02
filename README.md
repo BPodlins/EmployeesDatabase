@@ -1,11 +1,15 @@
 # EmployeesDatabase
-Project using Spring and MySQL to manage employees database
+https://employeeapp-g7bi5c4osa-lm.a.run.app/employees/list
+
+Project using Spring and MySQL (now PostgreSQL) to manage employees database
 
 ## Technical:
 - Spring
 - Thymeleaf
 - Hibernate
 - Maven
-- MySQL
-- AOP
+- MySQL (rewritten to PostgreSQL due to free hosting)
 - Docker
+- Google Cloud Platform (Cloud Run)
+- AOP
+  
